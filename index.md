@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Страничка - резюме
 
-You can use the [editor on GitHub](https://github.com/YuliaTimoshenkova/YuliaTimoshenkova.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Тут расскажу немного о себе
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Образование
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+После окончания школы я поступила в УрФУ в институт радиоэлектроники и информационных технологий - РТФ (ИРИТ-РТФ) на специальность информационные системы и технологии (ИСТ)
+в 2016 году я закончила бакалавриат с красным дипломом. Сейчас я учусь в магистратуре и летом буду защищать магистерскую диссертацию.
 
-```markdown
-Syntax highlighted code block
+## Мои достижения
+* Лучший выпускник УрФУ 2016 года
+* Лучший инженер-программист УрФО 2017 года года
+* 3 место в конкурсе инновационных проектов "Минута технославы"
+* Студент года в номинации научный прорыв 2017-2018 уч.года
+* Женский облик науки, побидитель в номанации бизнесс-леди
+* Более научных 10 публикаций
+* Акт внедрения разработанной модели
+* Стипендиат фонда Потанина/p> 
+* Стипендиат губернатора Свердловской области
+* Стипендиат правительства и президента по приоритетным направлениям
 
-# Header 1
-## Header 2
-### Header 3
+## Работа
+Я работаю в [АО НПО Автоматики](https://www.npoa.ru/)
+Инженер-конструктор с 2015 года
 
-- Bulleted
-- List
+## Хобби
 
-1. Numbered
-2. List
+Своим главным увлечением я считаю музыку. Мое увлечение ею началось в 1999 году, когда я впервые села за фортепьяно. На протяжении всех 8 лет обучения в музыкальной школе я активно учавствовала во всяких исполнительских конкурсах, но после 2007 года я редко садилась за фортепьяно. 
+Сейчас я играю на фортепьяно в оркестре УрФУ
+Надо отметить, что не смотря на все это, уже 12 лет я пою в театре оперы и балета города Екатеринбурга
 
-**Bold** and _Italic_ and `Code` text
+## Support or Contact
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YuliaTimoshenkova/YuliaTimoshenkova.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email: 
+[juliatimoshenkova@gmail.com](juliatimoshenkova@gmail.com)
+Telegramm: @Sirius_Alpha
+<3
