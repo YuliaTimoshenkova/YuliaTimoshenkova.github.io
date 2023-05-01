@@ -137,3 +137,6 @@ Telegramm: @Sirius_Alpha
 Своим главным увлечением я считаю музыку и преподавание в университете.
 
 <3 c любовью
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuliaTimoshenkova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
