@@ -11,9 +11,10 @@
 
 ## Контакты
 
+Telegramm: [@Sirius_Alpha](https://t.me/Sirius_Alpha)
+
 Email: 
 [juliatimoshenkova@gmail.com](juliatimoshenkova@gmail.com)
-Telegramm: @Sirius_Alpha
 
 ## Образование
 
