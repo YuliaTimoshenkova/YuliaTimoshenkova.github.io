@@ -2,6 +2,8 @@
 
 ## Doctor of philosophy in Engineering (PhD)
 
+[Link to russian page](./index.html)
+
 ## Senior system analyst
 
 ## Contacts
