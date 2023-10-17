@@ -8,7 +8,7 @@
 
 ## Контакты
 
-Telegramm: [@Sirius_Alpha](https://t.me/Sirius_Alpha)
+Telegram: [@Sirius_Alpha](https://t.me/Sirius_Alpha)
 
 Email:
 [juliatimoshenkova@gmail.com](juliatimoshenkova@gmail.com)
