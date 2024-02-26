@@ -6,6 +6,8 @@
 
 ## Doctor of philosophy in Engineering (PhD)
 
+[orcid 0000-0002-4137-0484](https://orcid.org/0000-0002-4137-0484)
+
 ## Главный системный аналитик в команде разработки Альфа-Банк
 
 ## Контакты
@@ -154,6 +156,9 @@ Email:
 * Стипендиат фонда Потанина
 * Стипендиат губернатора Свердловской области
 * Стипендиат правительства и президента по приоритетным направлениям
-* Более научных 10 публикаций
+* Более научных 20 научных публикаций на русском и английских языках
+  * [elibrary.ru](https://www.elibrary.ru/author_profile.asp?id=998302)
+  * [webofscience.com](https://www.webofscience.com/wos/author/record/312691)
+  * [scopus.com](https://www.scopus.com/authid/detail.uri?authorId=571940282420)
 
 <3 c любовью
