@@ -1,4 +1,4 @@
-# Тимошенкова Юлия Сергеевна
+# Тимошенкова Юлия
 
 [Link to english page](./index_eng.html).
 
