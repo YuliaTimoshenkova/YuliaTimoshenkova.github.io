@@ -146,7 +146,7 @@ Email:
 
 ## Мои достижения
 
-* Монография [Алгоритмическое и программное обеспечение методики интеграции формальных методов прогнозирования временных рядов и метода ассимиляции данных](https://www.ozon.ru/product/algoritmicheskoe-i-programmnoe-obespechenie-metodiki-integratsii-formalnyh-metodov-prognozirovaniya-1400218208/?asb=bjo5rmzwZN5l%252B5uU2YOL1Uq1QRkoqhyKFS0T%252FVvVflk%253D&asb2=_U_iy5NxJu1viwyFyoHVE_8SG0xsNxqFAPVQmzJQ2O4x2YeZwNlBJoMsFU5I1J7pIATXWdC1ffrq3P3CDuZMhQ&avtc=1&avte=2&avts=1708964344&keywords=%D0%A2%D0%B8%D0%BC%D0%BE%D1%88%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2%D0%B0)
+* Монография [Алгоритмическое и программное обеспечение методики интеграции формальных методов прогнозирования временных рядов и метода ассимиляции данных](https://ozon.ru/t/IxQ3uFJ)
 * Свидетельства о государственной регистрации программы для ЭВМ:
   * [ПРОГРАММНАЯ БИБЛИОТЕКА "ФОРМАЛЬНЫЕ МЕТОДЫ ПРОГНОЗИРОВАНИЯ ВРЕМЕННЫХ РЯДОВ"](https://www.fips.ru/iiss/document.xhtml?faces-redirect=true&id=403220348fe9f32e050dc396a0714591)
   * [ПРОГРАММНАЯ БИБЛИОТЕКА "ПРОГНОЗИРОВАНИЕ ВРЕМЕННЫХ РЯДОВ С ПОМОЩЬЮ НЕЙРОННОЙ СЕТИ LSTM"](https://www.fips.ru/iiss/document.xhtml?faces-redirect=true&id=fb384782b259e59c2dc8356d22060254)
